@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tdecoration",
+  "name": "Tinkers' Decoration",
+  "description": "Simply adds a decorative version of the seared bricks block. Cannot be used in the smeltery.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["idiot_with_a_uke"],
+  "credits": "Me, idiot_with_a_uke, for getting bored, deciding to make a mod, and then going through attempt after attempt even being extremely pissed that it doesn't work, and Mrbysco for helping me through making this mod because I don't know the first thing about doing this.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
