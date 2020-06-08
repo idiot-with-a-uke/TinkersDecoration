@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"##",
+		"##"
+	],
+	
+	"key": {
+		"#": {
+			"item": "tdecoration:hollowed_seared_brick"
+		}
+	},
+	
+	"result": {
+		"item": "tdecoration:seared_bricks_decoration",
+		"count": 1
+	}
+}

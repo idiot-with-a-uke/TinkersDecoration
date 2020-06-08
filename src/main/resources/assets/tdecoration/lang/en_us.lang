@@ -1,1 +1,5 @@
+//items
 item.hollowed_seared_brick.name=Hollowed Seared Brick
+
+//blocks
+tile.seared_bricks_decoration.name=Seared Bricks Decoration
